@@ -1,8 +1,8 @@
 # Car Parts Store Web Interface
 This is the implementation of the car parts store web interface. The database that is used for this project is car parts store
-database which is in another repo.
+database which is in another repo, and it can be reached from [here](https://github.com/erenulas/carpartsstoredatabase).
 
-##How to Use It?
+## How to Use It?
 * Clone the repo.
 * Download the libraries below and add them to the project.
   * jstl - https://mvnrepository.com/artifact/javax.servlet/jstl/1.2
